@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PlantainChips
+- 👋 Hi, I’m Roy Shaba.
 - 👀 I’m interested in all types of tech, mostly disruptive ones.
-- 🌱 I’m currently obessesed with Machine Learning and web-scraping.
+- 🌱 I’m currently obessesed with Machine Learning and Web-Scraping.
 - 💞️ I’m looking to collaborate on anything that challenges me.
-- 📫 How to reach me ...
+- 📫 Drop me a message on LinkedIn.
 
 <!---
 PlantainChips/PlantainChips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
