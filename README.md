@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roy Shaba.
+- 👋 Hi.
 - 👀 I’m interested in all types of tech, mostly disruptive ones.
 - 🌱 I’m currently obessesed with Machine Learning and Web-Scraping.
 - 💞️ I’m looking to collaborate on anything that challenges me.
